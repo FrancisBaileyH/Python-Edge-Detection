@@ -2,13 +2,14 @@ README
 --------------------
 
 Usage:
-
+```
 $ python2.7 edge-detection.py -m <sobel|kirsch|prewitt|blur> -i <image>
-
+```
 e.g.
 
+```
 $ python2.7 edge-detection.py -m kirsch -i ~/Downloads/test.jpg
-
+```
 
 Notes:
 
